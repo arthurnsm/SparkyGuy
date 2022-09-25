@@ -1,8 +1,12 @@
 ## Olá, Eu sou o Arthur Roberto
+<h5>📅 17 anos</h5>
+<h5>💻 Cursando Desenvolvimento de Sistemas (2/3)</h5>
+<h5>🇧🇷 São Paulo - Brasil</h5>
+<h5>📚 Estudando UX Design e Hacking</h5>
 <div align="center">
   <a href="https://github.com/SparkyGuy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SparkyGuy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkyGuy&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SparkyGuy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkyGuy&layout=compact&langs_count=7&theme=dark&border_color=78fe96&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
@@ -11,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Midoriya" height="150" style="border-radius: 10px;"
-  src="https://theworldisthegeekblog.files.wordpress.com/2018/07/dmim4hrwaaa7ejg.jpg">
+  src="https://media.discordapp.net/attachments/639091185423482882/1023665153671180318/midoriya.png?width=419&height=406">
 </div>
   
   ##
