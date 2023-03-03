@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Arthur Roberto
 <h5>📅 17 anos</h5>
-<h5>💻 Cursando Desenvolvimento de Sistemas (2/3)</h5>
+<h5>💻 Cursando Desenvolvimento de Sistemas (3/3)</h5>
 <h5>🇧🇷 São Paulo - Brasil</h5>
 <h5>📚 Estudando UX Design e Hacking</h5>
 <div align="center">
