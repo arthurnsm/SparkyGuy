@@ -14,7 +14,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" alt="Midoriya" height="150" src="https://media.discordapp.net/attachments/639091185423482882/1023665153671180318/midoriya.png?width=419&height=406"> 
+<!-- <img align="right" alt="Midoriya" height="150" src="https://media.discordapp.net/attachments/639091185423482882/1023665153671180318/midoriya.png?width=419&height=406"> -->
 </div>
   
   ##
