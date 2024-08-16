@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Arthur Roberto
-<h5>📅 18 anos</h5>
+<h5>📅 19 anos</h5>
 <h5>💻 Técnico em Desenvolvimento de Sistemas</h5>
-<h5>🇧🇷 São Paulo - Brasil</h5>
+<h5>🇧🇷  São Paulo - Brasil</h5>
 <div align="center">
   <a href="https://github.com/SparkyGuy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SparkyGuy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
