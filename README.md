@@ -4,8 +4,8 @@
 <h5>🇧🇷  São Paulo - Brasil</h5>
 <div align="center">
   <a href="https://github.com/SparkyGuy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SparkyGuy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparkyGuy&layout=compact&langs_count=7&theme=dark&border_color=78fe96&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dark&border_color=78fe96&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas"/>
 </div>
 <div><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
