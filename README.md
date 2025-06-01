@@ -3,7 +3,7 @@
 <h5>💻 Técnico em Desenvolvimento de Sistemas</h5>
 <h5>🇧🇷  São Paulo - Brasil</h5>
 <div align="center">
-  <a href="https://github.com/arthurnsm">
+  <a href="https://github.com/arthurnsm"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dark&border_color=78fe96&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas"/>
 </div>
@@ -15,9 +15,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!-- <img align="right" alt="Midoriya" height="150" src="https://media.discordapp.net/attachments/639091185423482882/1023665153671180318/midoriya.png?width=419&height=406"> -->
 </div>
-  
-  ##
- 
 <div> 
  <a href="https://codepen.io/sparkyguy" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 10px;" target="_blank"></a> 
   <a href="tur.roberto456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
