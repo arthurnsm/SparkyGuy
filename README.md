@@ -3,7 +3,7 @@
 <h5>💻 Técnico em Desenvolvimento de Sistemas</h5>
 <h5>🇧🇷  São Paulo - Brasil</h5>
 <div align="center">
-  <a href="https://github.com/SparkyGuy">
+  <a href="https://github.com/arthurnsm">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dark&border_color=78fe96&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas"/>
 </div>
@@ -23,5 +23,5 @@
   <a href="tur.roberto456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div> 
  
-  ![Snake animation](https://github.com/SparkyGuy/SparkyGuy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/arthurnsm/SparkyGuy/blob/output/github-contribution-grid-snake.svg)
 
